@@ -31,7 +31,7 @@ My background in teaching equips me with strong analytical skills, systematic ro
 Hands-on test automation and Python scripts developed during my AI QA specialization.
 * **Key Features:** Pytest test suites, structured module architecture, automated API assertions.
 
-#### 🔹 [Geopolitical News Monitor](https://github.com/korneltoth-aiqa/geopolitical-monitor) *(Experimental)*
+#### 🔹 https://github.com/korneltoth-aiqa/AI-QA-Geopolitical-News-Collector  *(Experimental)*
 A practical python tool combining domain logic with security and API integration practices.
 * **Key Features:** REST API integrations, JSON data parsing, integrated Bandit security configuration.
 
